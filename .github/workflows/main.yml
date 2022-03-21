@@ -1,5 +1,7 @@
 # This is a basic workflow to help you get started with Actions
-True to collect data
+
+/ .github/workflows/main.yml
+
 name: Dlaynee McDermott
 
 # Controls when the workflow will run
